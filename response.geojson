@@ -1,0 +1,337 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2019-07-12T13:17:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/999092052",
+        "amenity": "atm",
+        "contact:website": "http://www.gazprombank.ru/",
+        "name": "Газпромбанк",
+        "opening_hours": "Sa-Su 10:00-22:00",
+        "operator": "Газпромбанк"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.9259843,
+          43.4286682
+        ]
+      },
+      "id": "node/999092052"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1449065274",
+        "amenity": "atm",
+        "operator": "ОАО\"Уралсиб\""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.9255,
+          43.4268236
+        ]
+      },
+      "id": "node/1449065274"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1449066099",
+        "amenity": "atm",
+        "operator": "ОАО \"Сбербанк России\""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.9272032,
+          43.4263853
+        ]
+      },
+      "id": "node/1449066099"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1622092627",
+        "amenity": "atm",
+        "drive_through": "no",
+        "operator": "ПАО Сбербанк"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.9229803,
+          43.4318014
+        ]
+      },
+      "id": "node/1622092627"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2433850481",
+        "amenity": "atm",
+        "operator": "ПАО Сбербанк"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.9241784,
+          43.4302444
+        ]
+      },
+      "id": "node/2433850481"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3088902602",
+        "amenity": "atm",
+        "operator": "Уралсиб"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.9271666,
+          43.4263912
+        ]
+      },
+      "id": "node/3088902602"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3088902603",
+        "amenity": "atm",
+        "operator": "Альфа-Банк"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.9271476,
+          43.4263932
+        ]
+      },
+      "id": "node/3088902603"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3655342013",
+        "amenity": "atm",
+        "name": "Газпромбанк",
+        "opening_hours": "Sa-Su 09:00-22:00",
+        "operator": "Газпромбанк",
+        "website": "https://www.gazprombank.ru/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.9268103,
+          43.4275557
+        ]
+      },
+      "id": "node/3655342013"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3733154124",
+        "amenity": "atm",
+        "name": "Россельхозбанк"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.9357416,
+          43.423343
+        ]
+      },
+      "id": "node/3733154124"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3733154225",
+        "amenity": "atm",
+        "name": "Альфа-банк"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.9357952,
+          43.4233264
+        ]
+      },
+      "id": "node/3733154225"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3733154226",
+        "amenity": "atm",
+        "name": "Сбербанк"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.9358073,
+          43.4234453
+        ]
+      },
+      "id": "node/3733154226"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3733154227",
+        "amenity": "atm",
+        "name": "Райффайзенбанк"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.9357617,
+          43.4234599
+        ]
+      },
+      "id": "node/3733154227"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3733154228",
+        "amenity": "atm",
+        "name": "Кубань кредит"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.9357201,
+          43.4234716
+        ]
+      },
+      "id": "node/3733154228"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3733154229",
+        "amenity": "atm",
+        "operator": "Банк ВТБ (ПАО)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.935665,
+          43.4233693
+        ]
+      },
+      "id": "node/3733154229"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3733154230",
+        "amenity": "atm",
+        "name": "Московский Индустриальный банк"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.9357027,
+          43.4233566
+        ]
+      },
+      "id": "node/3733154230"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3733154231",
+        "amenity": "atm",
+        "name": "Крайинвестбанк"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.9356812,
+          43.4234862
+        ]
+      },
+      "id": "node/3733154231"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3733154232",
+        "amenity": "atm",
+        "name": "Уралсиб"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.9358462,
+          43.4234316
+        ]
+      },
+      "id": "node/3733154232"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3734574789",
+        "amenity": "atm",
+        "name": "Сбербанк"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.923058,
+          43.418923
+        ]
+      },
+      "id": "node/3734574789"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3973438004",
+        "amenity": "atm",
+        "drive_through": "no",
+        "operator": "ПАО Сбербанк"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.9165489,
+          43.4310748
+        ]
+      },
+      "id": "node/3973438004"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6559610285",
+        "amenity": "atm",
+        "opening_hours": "Mo-Su 09:00-22:00",
+        "operator": "Сбербанк"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.9160394,
+          43.4328402
+        ]
+      },
+      "id": "node/6559610285"
+    }
+  ]
+}
